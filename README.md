@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Blackcode Designer</h1>
-<h3 align="center">Cybersecurity Enthusiast | OSINT Researcher | SEO & Offensive Security Specialist From Arusha Tanzania</h3>
+<h3 align="center">Cybersecurity Enthusiast | OSINT Researcher | SEO Specialist From Arusha Tanzania</h3>
 
 - 🌱 I’m currently learning **Cyber Security & Digital Forensic**
 
