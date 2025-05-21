@@ -13,7 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/blackcodedesignerr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="blackcodedesignerr" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/blackcode-designerr-70a67931a/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="blackcode-designerr" height="30" width="40" />
+</a>
 <a href="https://instagram.com/blackcode_designer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="blackcode_designer" height="30" width="40" /></a>
 <a href="https://discord.gg/vUtmVxcA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vUtmVxcA" height="30" width="40" /></a>
 </p>
